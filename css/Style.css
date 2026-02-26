@@ -1,0 +1,190 @@
+*{
+    padding: 0%;
+    margin:0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+:root {
+    --text  : rgb(71, 69, 73);
+ }
+
+
+html{
+    font-size: 16px;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(206, 223, 238);
+    color: rgb(21, 22, 22);
+    color: var(--text);
+}
+
+.header{
+    max-width: 860px;
+    margin :0 auto;
+    padding: 2rem 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+
+h1{
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--text);
+
+}
+
+
+.opciones-nav {
+    display: flex;
+    background-color: azure;
+    border: 1px solid rgb(109, 95, 95) ;
+    border-radius: 10px;
+    padding: 0.25rem;
+    max-width: 520px;
+    margin: 0 auto 1.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
